@@ -1,5 +1,5 @@
 # MUBS_Drone_Design
-It is the schematic design of the small microcontroller chip and of MUBS drones
+It is the schematic design of the small microcontroller chip and of MUBS drones \n
 The main components of the chip are.
 1.ATTINY85U
 2.MALE USB PORT
@@ -7,4 +7,3 @@ The main components of the chip are.
 4.RESISTORS
 5.DIODES IN14007
 6.PIN HEADERS
-aksjcasj
