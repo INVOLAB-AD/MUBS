@@ -7,3 +7,4 @@ The main components of the chip are.
 4.RESISTORS
 5.DIODES IN14007
 6.PIN HEADERS
+aksjcasj
